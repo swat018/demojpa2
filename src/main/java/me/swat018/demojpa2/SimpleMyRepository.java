@@ -1,5 +1,6 @@
 package me.swat018.demojpa2;
 
+import me.swat018.demojpa2.Post.Post;
 import org.springframework.data.jpa.repository.support.JpaEntityInformation;
 import org.springframework.data.jpa.repository.support.SimpleJpaRepository;
 
